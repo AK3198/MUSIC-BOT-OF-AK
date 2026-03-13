@@ -1,5 +1,5 @@
 module.exports = {
-TOKEN: "YOUR_DISCORD_BOT_TOKEN",
+TOKEN: "MTQ1ODgyODA4MTA5NDU5MDcwMA.GozYw2.zI9LFaYBelolPH-eBROeqUMqLOlwg_Y3jfcqMw",
 
 language: "en",
 
@@ -26,17 +26,16 @@ showProgressBar: false,
 showVisualizer: false,
 generateSongCard: true,
 
-// Performance optimization
 lowMemoryMode: true,
 
 errorLog: "",
 
 nodes: [
 {
-name: "PublicLavalink",
-host: "lavalink.jirayu.net",
-port: 13592,
-password: "jirayu",
+name: "Mart",
+password: "D-Radio",
+host: "162.19.133.164",
+port: 7918,
 secure: false
 }
 ]
